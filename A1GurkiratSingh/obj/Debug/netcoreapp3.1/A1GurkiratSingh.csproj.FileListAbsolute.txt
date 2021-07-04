@@ -1,0 +1,13 @@
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\bin\Debug\netcoreapp3.1\A1GurkiratSingh.exe
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\bin\Debug\netcoreapp3.1\A1GurkiratSingh.deps.json
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\bin\Debug\netcoreapp3.1\A1GurkiratSingh.runtimeconfig.json
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\bin\Debug\netcoreapp3.1\A1GurkiratSingh.runtimeconfig.dev.json
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\bin\Debug\netcoreapp3.1\A1GurkiratSingh.dll
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\bin\Debug\netcoreapp3.1\A1GurkiratSingh.pdb
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\obj\Debug\netcoreapp3.1\A1GurkiratSingh.csprojAssemblyReference.cache
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\obj\Debug\netcoreapp3.1\A1GurkiratSingh.AssemblyInfoInputs.cache
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\obj\Debug\netcoreapp3.1\A1GurkiratSingh.AssemblyInfo.cs
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\obj\Debug\netcoreapp3.1\A1GurkiratSingh.csproj.CoreCompileInputs.cache
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\obj\Debug\netcoreapp3.1\A1GurkiratSingh.dll
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\obj\Debug\netcoreapp3.1\A1GurkiratSingh.pdb
+C:\Users\hi\source\repos\A1GurkiratSingh\A1GurkiratSingh\obj\Debug\netcoreapp3.1\A1GurkiratSingh.genruntimeconfig.cache
